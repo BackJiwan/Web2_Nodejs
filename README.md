@@ -1,2 +1,2 @@
 # web2_nodejs
-nodejs 실습
+First Node js Practice with Going Lee
